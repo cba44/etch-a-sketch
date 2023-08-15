@@ -1,0 +1,17 @@
+.box {
+    border: 0.5px solid black;
+}
+
+.row {
+    display: flex;
+}
+
+.clicked {
+    background-color: aqua;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
